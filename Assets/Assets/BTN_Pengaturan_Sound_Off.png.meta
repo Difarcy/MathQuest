@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: cfa916396cca04f478f0e5484977b623
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6587923120459577437
+    second: BTN_Pengaturan_Sound_Off_0
+  - first:
+      213: -5617592480091003891
+    second: BTN_Pengaturan_Sound_Off_1
+  - first:
+      213: 2902217429535977188
+    second: BTN_Pengaturan_Sound_Off_2
+  - first:
+      213: 2815289082237387792
+    second: BTN_Pengaturan_Sound_Off_3
+  - first:
+      213: -8237037326374741893
+    second: BTN_Pengaturan_Sound_Off_4
+  - first:
+      213: 2326960444733541611
+    second: BTN_Pengaturan_Sound_Off_5
+  - first:
+      213: 5666429632996596482
+    second: BTN_Pengaturan_Sound_Off_6
+  - first:
+      213: -8077376615742577798
+    second: BTN_Pengaturan_Sound_Off_7
+  - first:
+      213: -1067771873281005552
+    second: BTN_Pengaturan_Sound_Off_8
+  - first:
+      213: -5090841604781115070
+    second: BTN_Pengaturan_Sound_Off_9
+  - first:
+      213: 7453020310752851332
+    second: BTN_Pengaturan_Sound_Off_10
+  - first:
+      213: 4022648720584277703
+    second: BTN_Pengaturan_Sound_Off_11
+  - first:
+      213: 4184496871089547868
+    second: BTN_Pengaturan_Sound_Off_12
+  - first:
+      213: 8892782069041402810
+    second: BTN_Pengaturan_Sound_Off_13
+  - first:
+      213: -2865014232681908247
+    second: BTN_Pengaturan_Sound_Off_14
+  - first:
+      213: -2643194195580981685
+    second: BTN_Pengaturan_Sound_Off_15
+  - first:
+      213: 550792339137957261
+    second: BTN_Pengaturan_Sound_Off_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 31
+        width: 1175
+        height: 1201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58739a7c210d6b50800000000000000
+      internalID: 6587923120459577437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_1
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1226
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d042543176d4a02b0800000000000000
+      internalID: -5617592480091003891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee6074206fb64820800000000000000
+      internalID: 2902217429535977188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_3
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1188
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0148bc6118ae11720800000000000000
+      internalID: 2815289082237387792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_4
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1184
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78dccf713a20bd80800000000000000
+      internalID: -8237037326374741893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 696
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec4aba12360b4020800000000000000
+      internalID: 2326960444733541611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 537
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b528baab333ae40800000000000000
+      internalID: 5666429632996596482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 85
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73ed9583c467ef80800000000000000
+      internalID: -8077376615742577798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 77
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018aee773238e21f0800000000000000
+      internalID: -1067771873281005552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 91
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249fd3b6882b959b0800000000000000
+      internalID: -5090841604781115070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 83
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f13e1c727e6760800000000000000
+      internalID: 7453020310752851332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 78
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cefa9ec2b153d730800000000000000
+      internalID: 4022648720584277703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_12
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 78
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aa60ddbb1521a30800000000000000
+      internalID: 4184496871089547868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_13
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 79
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab31d220d22896b70800000000000000
+      internalID: 8892782069041402810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 79
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e77e802cbc6d38d0800000000000000
+      internalID: -2865014232681908247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e650422ec715bd0800000000000000
+      internalID: -2643194195580981685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Pengaturan_Sound_Off_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 30
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d0357d6bec4a700800000000000000
+      internalID: 550792339137957261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BTN_Pengaturan_Sound_Off_0: 6587923120459577437
+      BTN_Pengaturan_Sound_Off_1: -5617592480091003891
+      BTN_Pengaturan_Sound_Off_10: 7453020310752851332
+      BTN_Pengaturan_Sound_Off_11: 4022648720584277703
+      BTN_Pengaturan_Sound_Off_12: 4184496871089547868
+      BTN_Pengaturan_Sound_Off_13: 8892782069041402810
+      BTN_Pengaturan_Sound_Off_14: -2865014232681908247
+      BTN_Pengaturan_Sound_Off_15: -2643194195580981685
+      BTN_Pengaturan_Sound_Off_16: 550792339137957261
+      BTN_Pengaturan_Sound_Off_2: 2902217429535977188
+      BTN_Pengaturan_Sound_Off_3: 2815289082237387792
+      BTN_Pengaturan_Sound_Off_4: -8237037326374741893
+      BTN_Pengaturan_Sound_Off_5: 2326960444733541611
+      BTN_Pengaturan_Sound_Off_6: 5666429632996596482
+      BTN_Pengaturan_Sound_Off_7: -8077376615742577798
+      BTN_Pengaturan_Sound_Off_8: -1067771873281005552
+      BTN_Pengaturan_Sound_Off_9: -5090841604781115070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

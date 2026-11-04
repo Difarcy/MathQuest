@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: db7fc24f21a2c7242941fd070e405986
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: ac69724a0d29c2b43917235d0115eedc, type: 3}
+  _pages: []
+  _fonts: []
+  _fallbackFont: {instanceID: 0}
+  _pageReferences: []
+  _layer: 0
+  _pixelsPerUnit: 100
+  _scaleFactor: 1
+  _gradientResolution: 128
+  _minTextureSize: 64
+  _maxTextureSize: 1024
+  _rectTextureSize: 32
+  _rectResolutionScale: 1
+  _wrapMode: 1
+  _filterMode: 1
+  _sampleCount: 4
+  _expandEdges: 0
+  _markExternalAssetAsDependency: 1
+  _generateUniqueNodeName: 0
+  _localizationConverter: 
+  _effectConverters: []
+  _assetBindings: []
