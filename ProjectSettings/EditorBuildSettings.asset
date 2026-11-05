@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1599f4afdf806df47a948b75a0f5cceb
+  - enabled: 1
+    path: Assets/Scenes/Pengaturan.unity
+    guid: 86c0ff0c964ebf94885bd04f3370aa55
+  - enabled: 1
+    path: Assets/Scenes/MenuPilihan.unity
+    guid: b6bb5780351131f47914b83d6a76ff0a
+  - enabled: 1
+    path: Assets/Scenes/MenuBelajar.unity
+    guid: ee5067527c3987a4abc952866b7ede33
+  - enabled: 1
+    path: Assets/Scenes/Tentang.unity
+    guid: 7346942ccd285214c966bc07990844ef
+  - enabled: 1
+    path: Assets/Scenes/MenuBelajar.unity
+    guid: ee5067527c3987a4abc952866b7ede33
+  - enabled: 1
+    path: Assets/Scenes/MemilihKelipatan.unity
+    guid: d95b7fc276c2c754694427a5ebf280b2
+  - enabled: 1
+    path: Assets/Scenes/MenuBermain.unity
+    guid: 13158cd28e0e1bd4c94d49b012ea1c38
+  - enabled: 1
+    path: Assets/Scenes/MencariKelipatanPersekutuan.unity
+    guid: 1967cf2c18174e8438e623cf3b2bb500
+  - enabled: 1
+    path: Assets/Scenes/MencariFaktor.unity
+    guid: 46e38a96e77e62248873421bc7b50844
+  - enabled: 1
+    path: Assets/Scenes/MencariFaktorPersekutuan.unity
+    guid: f0047919497d2774197c9926742928e9
+  - enabled: 1
+    path: Assets/Scenes/MemilihBilanganPrima.unity
+    guid: f8c78d268c435414daa47bffe607bead
+  - enabled: 1
+    path: Assets/Scenes/MenyusunFaktorPrima.unity
+    guid: 71e66c868fc46754a95ba976cee9318a
+  - enabled: 1
+    path: Assets/Scenes/MenyusunPohonFaktor.unity
+    guid: b9f0264753c897849976133b9ab03a7b
+  - enabled: 1
+    path: Assets/Scenes/MencariKPK.unity
+    guid: ec67408861e89714f97f22ac512d2c09
+  - enabled: 1
+    path: Assets/Scenes/MencariFPB.unity
+    guid: 054ba48b5caad414fb472d48893cd440
+  - enabled: 1
+    path: Assets/Scenes/UjianKPKFPB.unity
+    guid: 3f6f6ece522cddf438932b662b4d13a5
+  - enabled: 1
+    path: Assets/Scenes/QuizKPKFPB.unity
+    guid: 64fee4a93587e6b4695fcd31fb8049f8
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
