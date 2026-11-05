@@ -92,7 +92,6 @@ Packages/packages-lock.json linguist-generated
 *.aiff                  lfs
 *.it                    lfs
 *.mod                   lfs
-*.mp3                   lfs
 *.ogg                   lfs
 *.s3m                   lfs
 *.wav                   lfs
@@ -113,10 +112,7 @@ Packages/packages-lock.json linguist-generated
 *.gif                   lfs
 *.hdr                   lfs
 *.iff                   lfs
-*.jpeg                  lfs
-*.jpg                   lfs
 *.pict                  lfs
-*.png                   lfs
 *.psd                   lfs
 *.tga                   lfs
 *.tif                   lfs
@@ -135,7 +131,6 @@ Packages/packages-lock.json linguist-generated
 *.so                    lfs
 # Fonts
 *.otf                   lfs
-*.ttf                   lfs
 # Executable/Installer
 *.apk                   lfs
 *.exe                   lfs
